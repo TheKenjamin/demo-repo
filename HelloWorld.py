@@ -1,5 +1,5 @@
 print("Hello World!")
-print("""Multiline
-code
-FTW
+print("""Opened GitHub folder 
+from another location 
+and saved!!
 """)
